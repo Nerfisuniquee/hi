@@ -1,0 +1,17 @@
+body {
+    background-color: yellowgreen;
+}
+#score {
+    font-size: 25px;
+    margin-left: 25px;
+    float: left;
+}
+#timer {
+    font-size: 25px;
+    float: right;
+    margin-right: 25px;
+}
+#sketch {
+    color: red;
+    font-size: 27px;
+}
